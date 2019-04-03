@@ -6,3 +6,6 @@
 6. Run: php artisan key:generate
 7. Run: php artisan serve
 8. Access to localhost:8000
+9. Demo account
+    - Admin: admin@gmail.com/adminpass
+    - User: user@gmail.com/userpass
